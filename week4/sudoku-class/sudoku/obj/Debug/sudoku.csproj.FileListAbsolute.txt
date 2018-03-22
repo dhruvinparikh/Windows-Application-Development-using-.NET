@@ -1,0 +1,18 @@
+D:\Humber\c#\Class Projects\sudoku\sudoku\bin\Debug\sudoku.exe.config
+D:\Humber\c#\Class Projects\sudoku\sudoku\obj\Debug\sudoku.exe
+D:\Humber\c#\Class Projects\sudoku\sudoku\obj\Debug\sudoku.pdb
+D:\Humber\c#\Class Projects\sudoku\sudoku\bin\Debug\sudoku.exe
+D:\Humber\c#\Class Projects\sudoku\sudoku\bin\Debug\sudoku.pdb
+D:\Humber\c#\Class Projects\sudoku\sudoku\obj\Debug\sudoku.csprojResolveAssemblyReference.cache
+D:\Humber\c#\Class Projects\sudoku\sudoku\obj\Debug\sudoku.Form1.resources
+D:\Humber\c#\Class Projects\sudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+D:\Humber\c#\Class Projects\sudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week4\sudoku-class\sudoku\bin\Debug\sudoku.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week4\sudoku-class\sudoku\bin\Debug\sudoku.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week4\sudoku-class\sudoku\bin\Debug\sudoku.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week4\sudoku-class\sudoku\obj\Debug\sudoku.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week4\sudoku-class\sudoku\obj\Debug\sudoku.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week4\sudoku-class\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week4\sudoku-class\sudoku\obj\Debug\sudoku.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week4\sudoku-class\sudoku\obj\Debug\sudoku.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week4\sudoku-class\sudoku\obj\Debug\sudoku.pdb

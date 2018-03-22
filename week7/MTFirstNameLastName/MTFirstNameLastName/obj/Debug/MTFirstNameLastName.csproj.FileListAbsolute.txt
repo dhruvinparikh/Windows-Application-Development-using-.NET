@@ -1,0 +1,10 @@
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week7\MTFirstNameLastName\MTFirstNameLastName\bin\Debug\MTFirstNameLastName.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week7\MTFirstNameLastName\MTFirstNameLastName\bin\Debug\MTFirstNameLastName.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week7\MTFirstNameLastName\MTFirstNameLastName\bin\Debug\MTFirstNameLastName.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week7\MTFirstNameLastName\MTFirstNameLastName\obj\Debug\MTFirstNameLastName.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week7\MTFirstNameLastName\MTFirstNameLastName\obj\Debug\MTFirstNameLastName.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week7\MTFirstNameLastName\MTFirstNameLastName\obj\Debug\MTFirstNameLastName.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week7\MTFirstNameLastName\MTFirstNameLastName\obj\Debug\MTFirstNameLastName.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week7\MTFirstNameLastName\MTFirstNameLastName\obj\Debug\MTFirstNameLastName.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week7\MTFirstNameLastName\MTFirstNameLastName\obj\Debug\MTFirstNameLastName.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week7\MTFirstNameLastName\MTFirstNameLastName\obj\Debug\MTFirstNameLastName.Payment.resources

@@ -1,0 +1,22 @@
+c:\users\zhongjie fan\documents\visual studio 2015\Projects\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+c:\users\zhongjie fan\documents\visual studio 2015\Projects\DBConnection\DBConnection\obj\Debug\DBConnection.csprojResolveAssemblyReference.cache
+c:\users\zhongjie fan\documents\visual studio 2015\Projects\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+c:\users\zhongjie fan\documents\visual studio 2015\Projects\DBConnection\DBConnection\obj\Debug\DBConnection.MDIParent1.resources
+c:\users\zhongjie fan\documents\visual studio 2015\Projects\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+c:\users\zhongjie fan\documents\visual studio 2015\Projects\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.Cache
+c:\users\zhongjie fan\documents\visual studio 2015\Projects\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+c:\users\zhongjie fan\documents\visual studio 2015\Projects\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+c:\users\zhongjie fan\documents\visual studio 2015\Projects\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+c:\users\zhongjie fan\documents\visual studio 2015\Projects\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
+C:\Users\Zhongjie FAN\Documents\Visual Studio 2015\Projects\DBConnection\DBConnection\obj\Debug\DBConnection.ShowData.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\DBConnection\DBConnection\obj\Debug\DBConnection.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\DBConnection\DBConnection\obj\Debug\DBConnection.MDIParent1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\DBConnection\DBConnection\obj\Debug\DBConnection.ShowData.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\DBConnection\DBConnection\obj\Debug\DBConnection.pdb

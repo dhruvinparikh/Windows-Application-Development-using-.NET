@@ -1,0 +1,9 @@
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\Notepad\Notepad\obj\Debug\Notepad.pdb

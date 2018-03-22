@@ -1,0 +1,10 @@
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\RestaurantBillCalculator\RestaurantBillCalculator\bin\Debug\RestaurantBillCalculator.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\RestaurantBillCalculator\RestaurantBillCalculator\bin\Debug\RestaurantBillCalculator.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\RestaurantBillCalculator\RestaurantBillCalculator\bin\Debug\RestaurantBillCalculator.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\RestaurantBillCalculator.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\RestaurantBillCalculator.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\RestaurantBillCalculator.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\RestaurantBillCalculator.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\RestaurantBillCalculator.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\RestaurantBillCalculator.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week6\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\RestaurantBillCalculator.GuessNumber.resources

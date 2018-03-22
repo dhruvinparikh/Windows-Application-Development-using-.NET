@@ -1,0 +1,6 @@
+c:\users\kauram\documents\visual studio 2015\Projects\collection\collection\bin\Debug\collection.exe.config
+c:\users\kauram\documents\visual studio 2015\Projects\collection\collection\bin\Debug\collection.exe
+c:\users\kauram\documents\visual studio 2015\Projects\collection\collection\bin\Debug\collection.pdb
+c:\users\kauram\documents\visual studio 2015\Projects\collection\collection\obj\Debug\collection.csprojResolveAssemblyReference.cache
+c:\users\kauram\documents\visual studio 2015\Projects\collection\collection\obj\Debug\collection.exe
+c:\users\kauram\documents\visual studio 2015\Projects\collection\collection\obj\Debug\collection.pdb

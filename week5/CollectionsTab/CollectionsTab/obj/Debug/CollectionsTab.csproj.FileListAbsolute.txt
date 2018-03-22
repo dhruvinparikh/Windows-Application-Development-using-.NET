@@ -1,0 +1,9 @@
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\CollectionsTab\CollectionsTab\bin\Debug\CollectionsTab.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\CollectionsTab\CollectionsTab\bin\Debug\CollectionsTab.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\CollectionsTab\CollectionsTab\bin\Debug\CollectionsTab.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\CollectionsTab\CollectionsTab\obj\Debug\CollectionsTab.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\CollectionsTab\CollectionsTab\obj\Debug\CollectionsTab.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\CollectionsTab\CollectionsTab\obj\Debug\CollectionsTab.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\CollectionsTab\CollectionsTab\obj\Debug\CollectionsTab.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\CollectionsTab\CollectionsTab\obj\Debug\CollectionsTab.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\CollectionsTab\CollectionsTab\obj\Debug\CollectionsTab.pdb

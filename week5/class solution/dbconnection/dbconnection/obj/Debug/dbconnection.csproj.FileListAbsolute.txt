@@ -1,0 +1,10 @@
+c:\users\kauram\documents\visual studio 2015\Projects\dbconnection\dbconnection\bin\Debug\dbconnection.exe.config
+c:\users\kauram\documents\visual studio 2015\Projects\dbconnection\dbconnection\obj\Debug\dbconnection.csprojResolveAssemblyReference.cache
+c:\users\kauram\documents\visual studio 2015\Projects\dbconnection\dbconnection\obj\Debug\dbconnection.Form1.resources
+c:\users\kauram\documents\visual studio 2015\Projects\dbconnection\dbconnection\obj\Debug\dbconnection.MDIParent1.resources
+c:\users\kauram\documents\visual studio 2015\Projects\dbconnection\dbconnection\obj\Debug\dbconnection.Properties.Resources.resources
+c:\users\kauram\documents\visual studio 2015\Projects\dbconnection\dbconnection\obj\Debug\dbconnection.csproj.GenerateResource.Cache
+c:\users\kauram\documents\visual studio 2015\Projects\dbconnection\dbconnection\bin\Debug\dbconnection.exe
+c:\users\kauram\documents\visual studio 2015\Projects\dbconnection\dbconnection\bin\Debug\dbconnection.pdb
+c:\users\kauram\documents\visual studio 2015\Projects\dbconnection\dbconnection\obj\Debug\dbconnection.exe
+c:\users\kauram\documents\visual studio 2015\Projects\dbconnection\dbconnection\obj\Debug\dbconnection.pdb

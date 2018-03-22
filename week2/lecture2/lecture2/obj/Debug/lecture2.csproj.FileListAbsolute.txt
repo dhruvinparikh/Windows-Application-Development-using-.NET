@@ -1,0 +1,15 @@
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\bin\Debug\lecture2.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\bin\Debug\lecture2.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\bin\Debug\lecture2.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.listboxes.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.lb1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.SameEventOnAllOptions.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.DrawLine.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.Keyevents.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\lecture2\lecture2\obj\Debug\lecture2.phone_number.resources

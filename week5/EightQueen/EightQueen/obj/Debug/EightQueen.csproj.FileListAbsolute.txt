@@ -1,0 +1,9 @@
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\EightQueen\EightQueen\bin\Debug\EightQueen.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\EightQueen\EightQueen\bin\Debug\EightQueen.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\EightQueen\EightQueen\bin\Debug\EightQueen.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\EightQueen\EightQueen\obj\Debug\EightQueen.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\EightQueen\EightQueen\obj\Debug\EightQueen.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\EightQueen\EightQueen\obj\Debug\EightQueen.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\EightQueen\EightQueen\obj\Debug\EightQueen.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\EightQueen\EightQueen\obj\Debug\EightQueen.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\EightQueen\EightQueen\obj\Debug\EightQueen.pdb

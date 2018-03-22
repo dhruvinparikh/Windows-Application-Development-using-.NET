@@ -1,0 +1,18 @@
+D:\Humber\c#\Class Projects\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Humber\c#\Class Projects\calculator\calculator\bin\Debug\calculator.exe
+D:\Humber\c#\Class Projects\calculator\calculator\bin\Debug\calculator.pdb
+D:\Humber\c#\Class Projects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\Humber\c#\Class Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Humber\c#\Class Projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Humber\c#\Class Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\Humber\c#\Class Projects\calculator\calculator\obj\Debug\calculator.exe
+D:\Humber\c#\Class Projects\calculator\calculator\obj\Debug\calculator.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\calculator\calculator\bin\Debug\calculator.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\calculator\calculator\bin\Debug\calculator.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\calculator\calculator\bin\Debug\calculator.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\calculator\calculator\obj\Debug\calculator.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\calculator\calculator\obj\Debug\calculator.pdb

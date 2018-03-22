@@ -1,0 +1,15 @@
+create database customerpaymentdb;
+use customerpaymentdb;
+
+CREATE TABLE PAYMENT(
+BILLING VARCHAR(30),
+CREDITCARDTYPE VARCHAR(30),
+CREDITCARDNUMBER VARCHAR(16),
+EXPIRATIONMONTH VARCHAR(3),
+EXPIRATIONYEAR VARCHAR(4),
+DEFAULTBILLING VARCHAR(1)
+);
+
+drop table payment;
+
+select * from payment;

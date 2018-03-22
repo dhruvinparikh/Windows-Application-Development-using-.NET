@@ -1,0 +1,10 @@
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\Exercise-1\Exercise-1\bin\Debug\Exercise-1.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\Exercise-1\Exercise-1\bin\Debug\Exercise-1.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\Exercise-1\Exercise-1\bin\Debug\Exercise-1.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\Exercise-1\Exercise-1\obj\Debug\Exercise-1.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\Exercise-1\Exercise-1\obj\Debug\Exercise_1.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\Exercise-1\Exercise-1\obj\Debug\Exercise_1.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\Exercise-1\Exercise-1\obj\Debug\Exercise-1.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\Exercise-1\Exercise-1\obj\Debug\Exercise-1.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\Exercise-1\Exercise-1\obj\Debug\Exercise-1.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week2\Exercise-1\Exercise-1\obj\Debug\Exercise_1.Drawing_panel.resources

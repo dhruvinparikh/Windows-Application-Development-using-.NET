@@ -1,0 +1,20 @@
+c:\users\kauram\documents\visual studio 2015\Projects\testdb\testdb\bin\Debug\testdb.exe.config
+c:\users\kauram\documents\visual studio 2015\Projects\testdb\testdb\bin\Debug\testdb.exe
+c:\users\kauram\documents\visual studio 2015\Projects\testdb\testdb\bin\Debug\testdb.pdb
+c:\users\kauram\documents\visual studio 2015\Projects\testdb\testdb\obj\Debug\testdb.csprojResolveAssemblyReference.cache
+c:\users\kauram\documents\visual studio 2015\Projects\testdb\testdb\obj\Debug\testdb.db.resources
+c:\users\kauram\documents\visual studio 2015\Projects\testdb\testdb\obj\Debug\testdb.Form1.resources
+c:\users\kauram\documents\visual studio 2015\Projects\testdb\testdb\obj\Debug\testdb.Properties.Resources.resources
+c:\users\kauram\documents\visual studio 2015\Projects\testdb\testdb\obj\Debug\testdb.csproj.GenerateResource.Cache
+c:\users\kauram\documents\visual studio 2015\Projects\testdb\testdb\obj\Debug\testdb.exe
+c:\users\kauram\documents\visual studio 2015\Projects\testdb\testdb\obj\Debug\testdb.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\class solution\testdb\testdb\bin\Debug\testdb.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\class solution\testdb\testdb\bin\Debug\testdb.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\class solution\testdb\testdb\bin\Debug\testdb.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\class solution\testdb\testdb\obj\Debug\testdb.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\class solution\testdb\testdb\obj\Debug\testdb.db.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\class solution\testdb\testdb\obj\Debug\testdb.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\class solution\testdb\testdb\obj\Debug\testdb.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\class solution\testdb\testdb\obj\Debug\testdb.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\class solution\testdb\testdb\obj\Debug\testdb.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\class solution\testdb\testdb\obj\Debug\testdb.pdb

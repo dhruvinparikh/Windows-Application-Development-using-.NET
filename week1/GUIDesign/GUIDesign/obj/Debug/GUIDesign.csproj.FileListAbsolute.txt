@@ -1,0 +1,18 @@
+D:\Humber\c#\Class Projects\GUIDesign\GUIDesign\bin\Debug\GUIDesign.exe.config
+D:\Humber\c#\Class Projects\GUIDesign\GUIDesign\bin\Debug\GUIDesign.exe
+D:\Humber\c#\Class Projects\GUIDesign\GUIDesign\bin\Debug\GUIDesign.pdb
+D:\Humber\c#\Class Projects\GUIDesign\GUIDesign\obj\Debug\GUIDesign.csprojResolveAssemblyReference.cache
+D:\Humber\c#\Class Projects\GUIDesign\GUIDesign\obj\Debug\GUIDesign.Form1.resources
+D:\Humber\c#\Class Projects\GUIDesign\GUIDesign\obj\Debug\GUIDesign.Properties.Resources.resources
+D:\Humber\c#\Class Projects\GUIDesign\GUIDesign\obj\Debug\GUIDesign.csproj.GenerateResource.Cache
+D:\Humber\c#\Class Projects\GUIDesign\GUIDesign\obj\Debug\GUIDesign.exe
+D:\Humber\c#\Class Projects\GUIDesign\GUIDesign\obj\Debug\GUIDesign.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUIDesign\GUIDesign\obj\Debug\GUIDesign.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUIDesign\GUIDesign\obj\Debug\GUIDesign.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUIDesign\GUIDesign\obj\Debug\GUIDesign.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUIDesign\GUIDesign\obj\Debug\GUIDesign.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUIDesign\GUIDesign\obj\Debug\GUIDesign.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUIDesign\GUIDesign\obj\Debug\GUIDesign.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUIDesign\GUIDesign\bin\Debug\GUIDesign.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUIDesign\GUIDesign\bin\Debug\GUIDesign.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUIDesign\GUIDesign\bin\Debug\GUIDesign.pdb

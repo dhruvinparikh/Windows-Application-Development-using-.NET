@@ -1,0 +1,9 @@
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello Message\Hello Message\bin\Debug\netcoreapp1.1\Hello Message.deps.json
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello Message\Hello Message\bin\Debug\netcoreapp1.1\Hello Message.runtimeconfig.json
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello Message\Hello Message\bin\Debug\netcoreapp1.1\Hello Message.runtimeconfig.dev.json
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello Message\Hello Message\bin\Debug\netcoreapp1.1\Hello Message.dll
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello Message\Hello Message\bin\Debug\netcoreapp1.1\Hello Message.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello Message\Hello Message\obj\Debug\netcoreapp1.1\Hello Message.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello Message\Hello Message\obj\Debug\netcoreapp1.1\Hello Message.AssemblyInfo.cs
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello Message\Hello Message\obj\Debug\netcoreapp1.1\Hello Message.dll
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello Message\Hello Message\obj\Debug\netcoreapp1.1\Hello Message.pdb

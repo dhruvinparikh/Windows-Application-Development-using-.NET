@@ -1,0 +1,12 @@
+D:\Humber\c#\Class Projects\Hello_Msg\Hello_Msg\bin\Debug\Hello_Msg.exe.config
+D:\Humber\c#\Class Projects\Hello_Msg\Hello_Msg\bin\Debug\Hello_Msg.exe
+D:\Humber\c#\Class Projects\Hello_Msg\Hello_Msg\bin\Debug\Hello_Msg.pdb
+D:\Humber\c#\Class Projects\Hello_Msg\Hello_Msg\obj\Debug\Hello_Msg.csprojResolveAssemblyReference.cache
+D:\Humber\c#\Class Projects\Hello_Msg\Hello_Msg\obj\Debug\Hello_Msg.exe
+D:\Humber\c#\Class Projects\Hello_Msg\Hello_Msg\obj\Debug\Hello_Msg.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello_Msg\Hello_Msg\bin\Debug\Hello_Msg.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello_Msg\Hello_Msg\bin\Debug\Hello_Msg.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello_Msg\Hello_Msg\bin\Debug\Hello_Msg.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello_Msg\Hello_Msg\obj\Debug\Hello_Msg.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello_Msg\Hello_Msg\obj\Debug\Hello_Msg.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\Hello_Msg\Hello_Msg\obj\Debug\Hello_Msg.pdb

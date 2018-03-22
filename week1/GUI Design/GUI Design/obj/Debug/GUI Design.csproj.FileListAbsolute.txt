@@ -1,0 +1,13 @@
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\bin\Debug\GUI Design.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\bin\Debug\GUI Design.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\bin\Debug\GUI Design.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\obj\Debug\GUI Design.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\obj\Debug\GUI_Design.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\obj\Debug\GUI_Design.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\obj\Debug\GUI Design.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\obj\Debug\GUI Design.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\obj\Debug\GUI Design.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\obj\Debug\GUI_Design.Form2.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\obj\Debug\GUI_Design.Form3.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\obj\Debug\GUI_Design.Form4.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week1\GUI Design\GUI Design\obj\Debug\GUI_Design.Paintbrush.resources

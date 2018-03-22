@@ -1,0 +1,9 @@
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\File Browser\File Browser\bin\Debug\File Browser.exe.config
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\File Browser\File Browser\bin\Debug\File Browser.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\File Browser\File Browser\bin\Debug\File Browser.pdb
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\File Browser\File Browser\obj\Debug\File Browser.csprojResolveAssemblyReference.cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\File Browser\File Browser\obj\Debug\File_Browser.Form1.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\File Browser\File Browser\obj\Debug\File_Browser.Properties.Resources.resources
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\File Browser\File Browser\obj\Debug\File Browser.csproj.GenerateResource.Cache
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\File Browser\File Browser\obj\Debug\File Browser.exe
+C:\humber\Info Tech Soln-S\Sem-2\Windows Application Development using .NET\week5\File Browser\File Browser\obj\Debug\File Browser.pdb

@@ -1,0 +1,9 @@
+c:\users\kauram\documents\visual studio 2015\Projects\collectiontab\collectiontab\bin\Debug\collectiontab.exe.config
+c:\users\kauram\documents\visual studio 2015\Projects\collectiontab\collectiontab\bin\Debug\collectiontab.exe
+c:\users\kauram\documents\visual studio 2015\Projects\collectiontab\collectiontab\bin\Debug\collectiontab.pdb
+c:\users\kauram\documents\visual studio 2015\Projects\collectiontab\collectiontab\obj\Debug\collectiontab.csprojResolveAssemblyReference.cache
+c:\users\kauram\documents\visual studio 2015\Projects\collectiontab\collectiontab\obj\Debug\collectiontab.Form1.resources
+c:\users\kauram\documents\visual studio 2015\Projects\collectiontab\collectiontab\obj\Debug\collectiontab.Properties.Resources.resources
+c:\users\kauram\documents\visual studio 2015\Projects\collectiontab\collectiontab\obj\Debug\collectiontab.csproj.GenerateResource.Cache
+c:\users\kauram\documents\visual studio 2015\Projects\collectiontab\collectiontab\obj\Debug\collectiontab.exe
+c:\users\kauram\documents\visual studio 2015\Projects\collectiontab\collectiontab\obj\Debug\collectiontab.pdb
